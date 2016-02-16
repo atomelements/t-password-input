@@ -24,7 +24,8 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
     "t-input": "atomelements/t-input#^1.0.0",
-    "t-checkbox": "atomelements/t-checkbox#^1.0.0"
+    "t-checkbox": "atomelements/t-checkbox#^1.0.0",
+    "t-password-input": "atomelements/t-password-input"
   },
   "devDependencies": {}
 }
