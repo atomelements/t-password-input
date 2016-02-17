@@ -2,6 +2,10 @@
   "name": "t-password-input",
   "version": "1.0.0",
   "authors": [
+    "Rahul Pilkhwal <rahul.pilkhwal@tavisca.com>",
+    "Shailesh Kumar Srivastava <ssrivastava@tavisca.com>",
+    "Sounak Pal <spal@tavisca.com>",
+    "Ajinkya Tejankar <tejankarajinkya@gmail.com>",
     "Manoj Chalode <chalodem@gmail.com>"
   ],
   "description": "",
@@ -24,8 +28,7 @@
   "dependencies": {
     "polymer": "Polymer/polymer#^1.0.0",
     "t-input": "atomelements/t-input#^1.0.0",
-    "t-checkbox": "atomelements/t-checkbox#^1.0.0",
-    "t-password-input": "atomelements/t-password-input"
+    "t-checkbox": "atomelements/t-checkbox#^1.0.0"
   },
   "devDependencies": {}
 }
